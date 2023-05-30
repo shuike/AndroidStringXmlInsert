@@ -1,0 +1,100 @@
+[
+  {
+    "languages": [
+      {
+        "language": "zh",
+        "content": "购买成功"
+      },
+      {
+        "language": "zh-rTW",
+        "content": "購買成功"
+      },
+      {
+        "language": "fr",
+        "content": "Achat réussi"
+      },
+      {
+        "language": "de",
+        "content": "Kauf erfolgreich"
+      },
+      {
+        "language": "it",
+        "content": "Acquisto riuscito"
+      },
+      {
+        "language": "ja",
+        "content": "購入成功"
+      },
+      {
+        "language": "ko",
+        "content": "구매 성공"
+      },
+      {
+        "language": "pl",
+        "content": "Zakup udany"
+      },
+      {
+        "language": "pt",
+        "content": "Comprar com sucesso"
+      },
+      {
+        "language": "ru",
+        "content": "Успешная покупка"
+      },
+      {
+        "language": "es",
+        "content": "Compra con éxito"
+      }
+    ],
+    "target_content": "Purchase successful"
+  },
+  {
+    "languages": [
+      {
+        "language": "zh",
+        "content": "购买失败"
+      },
+      {
+        "language": "zh-rTW",
+        "content": "購買失敗"
+      },
+      {
+        "language": "fr",
+        "content": "Échec de l'achat"
+      },
+      {
+        "language": "de",
+        "content": "Fehlgeschlagener Kauf"
+      },
+      {
+        "language": "it",
+        "content": "Fallimento dell'acquisto"
+      },
+      {
+        "language": "ja",
+        "content": "購入失敗"
+      },
+      {
+        "language": "ko",
+        "content": "구매 실패"
+      },
+      {
+        "language": "pl",
+        "content": "Niepowodzenie w zakupie"
+      },
+      {
+        "language": "pt",
+        "content": "Falha na compra"
+      },
+      {
+        "language": "ru",
+        "content": "Неудачная покупка"
+      },
+      {
+        "language": "es",
+        "content": "Fallo de compra"
+      }
+    ],
+    "target_content": "Purchase failure"
+  }
+]
